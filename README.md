@@ -89,7 +89,7 @@ The models were evaluated using:
 | Decision Tree       |      [X] |       [X] |    [X] |      [X] |     [X] |
 | Random Forest       |      [X] |       [X] |    [X] |      [X] |     [X] |
 
-The best-performing model was **[Model Name]**, achieving an F1-score of **[X]** and a ROC-AUC of **[X]**.
+The best-performing model was **RANDOM FOREST**
 
 ## 💡 Key Insights
 
